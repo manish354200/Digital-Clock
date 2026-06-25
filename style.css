@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url("clock.jpg");   
+  background-image: url("Assets/clock.jpg");   
   background-size: cover;               /* scale to fill the page */
   background-position: center;          /* keep it centered */
   background-repeat: no-repeat;         /* prevent tiling */
