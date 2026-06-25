@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots
 
-<img src="Assets/clock.jpg" alt="Digital Clock Screenshot" width="600">
+<img src="Assets/pic.jpg" alt="Digital Clock Screenshot" width="600">
 
 ## Getting Started
 
