@@ -1,8 +1,23 @@
 
 body {
-    background-color: #212121;
-    color: #fff;
-  }
+  margin: 0;
+  padding: 0;
+  background-image: url("clock.jpg");   
+  background-size: cover;               /* scale to fill the page */
+  background-position: center;          /* keep it centered */
+  background-repeat: no-repeat;         /* prevent tiling */
+  height: 100vh;                        /* full viewport height */
+}
+#country{
+  display: flex;
+  padding:12px 20px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.2) ;
+  border: none;
+}
+.slct{
+  height: 600px;
+}
 .center {
     display: flex;
     height: 100vh;
@@ -12,8 +27,13 @@ body {
   }
 #clock {
     font-size: 40px;
-    background-color: orange;
+    background: rgba(255, 255, 255, 0.2);
     padding: 20px 50px;
-    margin-top: 10px;
+    margin-top: 0px;
     border-radius: 10px;
+    position: fixed;
+  }
+  #banner{
+    position: fixed;
+    margin-bottom: 110px;
   }
