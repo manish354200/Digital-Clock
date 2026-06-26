@@ -1,12 +1,11 @@
-
 body {
   margin: 0;
   padding: 0;
   background-image: url("Assets/clock.jpg");   
-  background-size: cover;               /* scale to fill the page */
-  background-position: center;          /* keep it centered */
-  background-repeat: no-repeat;         /* prevent tiling */
-  height: 100vh;                        /* full viewport height */
+  background-size: cover;               
+  background-position: center;         
+  background-repeat: no-repeat;         
+  height: 100vh;                        
 }
 #country{
   display: flex;
